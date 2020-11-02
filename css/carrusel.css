@@ -2,7 +2,7 @@
 {
     width: 100vw;
     height: 35vh;
-    background-image: url('/images/carrusel/carrusel-small.jpg');
+    background-image: url('../images/carrusel/carrusel-small.jpg');
     filter: blur(3px);
  
 }
