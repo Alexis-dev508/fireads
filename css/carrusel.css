@@ -2,7 +2,7 @@
 {
     width: 100vw;
     height: 35vh;
-    background-image: url('../images/carrusel/carrusel-small.jpg');
+    background-image: url('https://images.unsplash.com/photo-1532968761474-250280e05cac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
     filter: blur(3px);
  
 }
