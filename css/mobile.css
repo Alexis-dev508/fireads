@@ -13,9 +13,13 @@ html, body
     height: 100vh;
     
 }
+.header
+{
+    position: sticky;
+}
 .header-nav
 {
-    display: flex;
+    display:flex;
     justify-content: space-between;
     width: 100vw;
 }
@@ -55,7 +59,8 @@ a
 
 .drop-down-menu:hover >ul
 {
-display: block;
+    display: block; 
+    float: left;
 }
 
 
